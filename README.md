@@ -3,7 +3,7 @@
 
 **Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/)
 
-This repository includes content for the "Big-Scale Analytics".
+This repository includes content for the course of "Big-Scale Analytics".
 
 - Week 1: [Introduction to cloud based services](week1)
 - Week 2: [SQL with Python (SQLite) and SQL on the Cloud (BigQuery)](week2)
