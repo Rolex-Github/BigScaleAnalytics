@@ -1,7 +1,7 @@
 # Big-Scale Analytics 
 ## University of Lausanne, HEC
 
-**Instructor**: [Prof. M. Vlachos](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1214508&LanCode=8)
+**Instructor**: [Prof. M. Vlachos](https://people.unil.ch/michalisvlachos/)
 
 This repository includes content for the "Big-Scale Analytics".
 
