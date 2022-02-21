@@ -1,17 +1,19 @@
 # Introduction to cloud services
 
-Welcome to the first BSA lab! In this week, we will give you a brief overview of what cloud-based services can offer. More specifically, we will look into **Microsoft Azure** and **Google Cloud**, two of the most popular cloud services platforms.
+Welcome to the first BSA lab! In this week, we will give you a brief overview of cloud-based services. More specifically, we will look into **Google Cloud**, one of the most popular cloud services platforms. 
 
-## Goals
+💳 <u>Please bring your credit card to this lab or register on your own for your google cloud account from home before the lab.<\u> 
 
-* [Register on Slack](https://join.slack.com/t/bigscaleanalytics2021/shared_invite/zt-kwpnsx1t-bIpVtJfzw6N_82CNFI2jHQ). This will be our main communication channel.
-* Create an account on [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) and get a student subscription (you will receive a free $100 credit for one year).
-* Create an account on [Google Cloud](https://cloud.google.com). **Note**: For that, you will need to enter your credit card information, but you won't be charged. It is just to verify that you are not a bot. You will receive a free $300 credit valid for one year. See also [here](https://edu.google.com/programs/students/?modal_active=none) for classes on Google Cloud for students.
+## To do
+
+* [Register on Slack](https://join.slack.com/t/bigscaleanalytics2022/shared_invite/zt-1408kz52b-wwcCsi4qgixLaVDh~FpcxA). This will be our main communication channel.
+* Create an account on [Google Cloud](https://cloud.google.com). This needs to be a google account.
+* **Note**: For the Google Cloud account, you will have to enter your credit card information, but you won't be charged. It is just to verify that you are not a bot. Upon joining, you will receive a free $300 credit valid for 3 months. See also [here](https://edu.google.com/programs/students/?modal_active=none) for classes on Google Cloud for students.
 * Do some simple exercises using the cloud.
 
-You are going to use these services all throughout the semester, so make sure that you have created your accounts by the end of the week. After having made an account, try to explore the various features you see in Azure and Google Cloud.
+You are going to use this services all throughout the semester, so make sure that you have created your account by the end of the week. Afterwards try to explore the various features you see in Google Cloud.
 
-**Highly recommended**: If at any point you feel lost while using these services, we encourage you to look at the documentation provided by [Microsoft](https://docs.microsoft.com/en-us/learn/) and [Google](https://cloud.google.com/docs). They are rich resources that teach you how to use their services, along with numerous code examples.
+**Highly recommended**: If at any point you feel lost while using this service, we encourage you to look at the documentation provided by [Google](https://cloud.google.com/docs). They teach you how to use their services, and provide numerous code examples.
 
 ## Lab Structure
 
@@ -24,22 +26,19 @@ You are going to use these services all throughout the semester, so make sure th
 
 **Hour 2**:
 
-5. Presentation of the project
-6. Group exercise on Google cloud functions (15 min. in breakout rooms)
+5. Group exercise on Google cloud functions (15 min. in breakout rooms)
 
 ## Walkthroughs
 
-We will start with a walkthrough of Google Cloud services. Important topics that will be covered are:
+We will start with a walkthrough of Google Cloud services. Topics covered:
 
-* Introductιon to cloud platforms and showing how to create an account on Google Cloud.
+* Introductιon to the Google Cloud platform and howing how to create an account on Google Cloud.
 * Introduction to Google Cloud console and have a walkthrough of its different sections.
 * Introducing the billing section, where you can see your expenses.
 * Going a bit more deep into parts of the console which are more important to us, i.e., Storage, Big Data and AI.
 * Uploading a new dataset to the Google Cloud storage.
-* Introduction to Google Cloud BigQuery. Query a dataset you uploaded (or a public dataset) with SQL.
 * Showing usage examples of natural language and translation and vision APIs in Google Cloud (in case we got enough time).
 
-For a walkthrough of Microsoft Azure, check the document in this Git folder on your own time.
 
 ## Exercises
 These should be conducted in groups of three.
@@ -66,3 +65,8 @@ These should be conducted in groups of three.
 * Try the API link above to see what the returned object looks like. It will make it easier for you to understand how to access the desired data from your code. You may also want to look into Python's default [`json`](https://docs.python.org/3/library/json.html) library.
 * There are several ways to make HTTP requests from Python. You can use the [`requests`](https://requests.readthedocs.io/en/master/) library, for example.
 * To go back to your code after having deployed the function, you must go to your list of cloud functions, click the function, then click the "Edit" button at the top. The console will ask you to review the configuration first; you can simply click "Next".
+
+**Entirely optional (will not be covered this time)**:
+* If you'd like to check out a different cloud service, you can also have a look on your own at **Microsoft Azure**. For a walkthrough of Microsoft Azure, check the document in this Git folder in your own time.
+* Create an account on [Microsoft Azure](https://azure.microsoft.com/en-us/free/students/) and get a student subscription (you will receive a free $100 credit for one year).
+* The documentation is available here: [Microsoft](https://docs.microsoft.com/en-us/learn/).
