@@ -2,7 +2,7 @@
 
 Welcome to the first BSA lab! In this week, we will give you a brief overview of cloud-based services. More specifically, we will look into **Google Cloud**, one of the most popular cloud services platforms. 
 
-💳 <u>Please bring your credit card to this lab or register on your own for your google cloud account from home before the lab.</u> 
+💳 <u>Please bring your credit card to the Week 1 lab or [register on your own for your Google cloud account from home before the lab using this quick guide](Week1_Google_Cloud-create_account.pdf).</u> 
 
 ## To do
 
