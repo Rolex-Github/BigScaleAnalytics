@@ -17,16 +17,11 @@ You are going to use this services all throughout the semester, so make sure tha
 
 ## Lab Structure
 
-**Hour 1**:
-
 1. Introduction of TAs
 2. Students register on the course Slack
 3. Walkthrough of cloud services
-4. Small group exercise on Google cloud storage (5 min. in breakout rooms)
-
-**Hour 2**:
-
-5. Group exercise on Google cloud functions (15 min. in breakout rooms)
+4. Small group exercise on Google cloud storage (10 min.)
+5. Group exercise on Google cloud functions (15 min.)
 
 ## Walkthroughs
 
