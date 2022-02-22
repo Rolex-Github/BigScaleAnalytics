@@ -43,8 +43,9 @@ These should be conducted in groups of three.
 * From the side menu, go to _Storage_ > _Storage_ and create a new bucket. Besides a unique name, you can keep the default configuration (but read through it anyway to see what kind of options are available to you).
 * Upload a CSV from your laptop (either an existing one or one that you create for that purpose).
 * Change the permissions so that the file is readable by everyone (i.e., "Public").
-* Access the CSV file from your browser using the public URL.
+* Access the CSV file from your browser (private session) using the public URL.
 * Remove the previously set permission.
+* For further reference the [documentation is available here](https://cloud.google.com/storage/docs/access-control/making-data-public?hl=en-GB).
 
 ### Exercise 2: Cloud functions
 
