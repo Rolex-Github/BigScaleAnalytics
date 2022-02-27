@@ -5,22 +5,16 @@ This week, we will first cover a quick recap of the SQL syntax and see how we ca
 ## Goals
 
 * Get reacquainted with the SQL syntax to prepare you for the upcoming assignment
-* Create and query a SQLite database using Python
+* Create and query an SQLite database using Python
 * Learn how BigQuery works (data upload and exploration)
 * Strengthen SQL knowledge by querying a public dataset on BigQuery
 
 ## Lab Structure
 
-**Hour 1**:
-
 1. SQL recap and basic queries in Colab
 2. Access to Google Cloud
 3. BigQuery walkthrough
-
-**Hour 2**:
-
 4. Exercises
-5. Solutions (presented by students)
 
 ## Walkthrough
 
