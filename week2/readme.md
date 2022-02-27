@@ -20,3 +20,5 @@ This week, we will first cover a quick recap of the SQL syntax and see how we ca
 
 The walkthrough will be done directly on the Google BigQuery console, as well as on the BigQuery notebook. We have also added some slides containing all the information you need to get you started in BigQuery. You can use the SQL notebook to refresh your SQL skills.
 
+SQL recap: https://www.w3schools.com/sql/
+
