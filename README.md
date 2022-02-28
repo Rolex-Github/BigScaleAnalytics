@@ -6,7 +6,7 @@
 This repository includes content for the course of "Big-Scale Analytics".
 
 - Week 1: [Introduction to cloud based services](week1)
-- Week 2: [SQL with Python (SQLite) and SQL on the Cloud (BigQuery)](week2)
+- Week 2: [SQL on the Cloud (BigQuery)](week2)
 - Week 3: Entity Resolution in Python/Duplicate Detection
 - Week 4: Elasticsearch
 - Week 5: Association Rules in Python
