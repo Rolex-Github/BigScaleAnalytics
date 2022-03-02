@@ -5,9 +5,6 @@ you take a look at the [Wikipedia](https://en.wikipedia.org/wiki/Record_linkage)
 
 We will explore together how to deduplicate datasets using the [recordlinkage](https://recordlinkage.readthedocs.io/en/latest/index.html) Python library.
 
-## Recording
-[Lab Entity resolution](https://moodle.unil.ch/mod/url/view.php?id=1207892)
-
 ## Goals
 
 * Learn the basic usage of the `recordlinkage` Python library
