@@ -18,6 +18,6 @@ If you want to broaden your knowledge beyond this lab, the Elastic website provi
 3. Introducion to query DSL using the Kibana Dev Tools Console
 4. Connecting your colab notebook to Elastic Cloud and using the elasticsearch-dsl package
 5. Create an autocomplete functionality for your index using the Edge n-gram tokenizer in the Kibana Dev Tools Console
-6. Create a deployment with the data for your persona assignment
+6. Create a deployment with the data for your personal assignment, part 4
 
 If you are unsure how to make your queries, the [Query DSL documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html) has everything, including examples.
