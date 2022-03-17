@@ -74,7 +74,7 @@ HOW NOT TO DO IT:
 GET books/_search
 {
   "query": {
-    prefix{
+    "prefix": {
       "title": "tim"
     }
   }
@@ -85,7 +85,7 @@ BECAUSE
 GET books/_search
 {
   "query": {
-    prefix{
+    "prefix": {
       "title": "timon of"
     }
   }
