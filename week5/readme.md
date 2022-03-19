@@ -6,8 +6,8 @@ In this week's lab, we are going to revise the notions of support, confidence an
 
 ## Goals
 
-* Strengthen your knowledge of frequent itemsets, the Apriori algorithm, and association rules
 * Learn how to mine association rules using Python
+* Strengthen your knowledge of frequent itemsets, the Apriori algorithm, and association rules
 
 ## Lab Structure
 
