@@ -5,7 +5,7 @@ In this week's lab we are going to cover the following topics:
 - Recommendations using the Surprise library
 
 ### To Do
-Follow the notebook [Recommender_systems](week6/Recommender_systems.ipynb).
+Follow the notebook [Recommender_systems](Recommender_systems.ipynb).
 Exercise: the notebook contains an exercise which we will do during the lab
 
 ### Note
