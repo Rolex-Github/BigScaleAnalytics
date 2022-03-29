@@ -1,12 +1,14 @@
 
+import tmdbsimple as tmdb
+import time
+
+
 class TMDB():
     """For retrieving image poster.
 
     """
-    import tmdbsimple as tmdb
-    import time
-    poster_prefix = "https://image.tmdb.org/t/p/w300"
-    tmdb_api_key = "577de6ca2c5c1ffa942189ef5843e5f3"
+    poster_prefix = "http://image.tmdb.org/t/p/w200"
+    tmdb_api_key = "37117cc09d5e00673f14f1cb7c7468b2"
 
     def __init__(self):
         tmdb.API_KEY = self.tmdb_api_key
@@ -41,3 +43,4 @@ if __name__ == '__main__':
     print(TMDB().get_poster_path_by_id("862.0")) # Toy Story
 
     print("--- %s seconds ---" % (time.time() - start_time))
+
