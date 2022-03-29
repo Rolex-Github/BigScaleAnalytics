@@ -1,12 +1,10 @@
 
-import tmdbsimple as tmdb
-import time
-
-
 class TMDB():
     """For retrieving image poster.
 
     """
+    import tmdbsimple as tmdb
+    import time
     poster_prefix = "https://image.tmdb.org/t/p/w300"
     tmdb_api_key = "577de6ca2c5c1ffa942189ef5843e5f3"
 
