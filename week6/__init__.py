@@ -7,7 +7,7 @@ class TMDB():
     """For retrieving image poster.
 
     """
-    poster_prefix = "http://image.tmdb.org/t/p/w200"
+    poster_prefix = "https://image.tmdb.org/t/p/w500"
     tmdb_api_key = "577de6ca2c5c1ffa942189ef5843e5f3"
 
     def __init__(self):
