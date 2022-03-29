@@ -8,7 +8,7 @@ class TMDB():
 
     """
     poster_prefix = "http://image.tmdb.org/t/p/w200"
-    tmdb_api_key = "37117cc09d5e00673f14f1cb7c7468b2"
+    tmdb_api_key = "577de6ca2c5c1ffa942189ef5843e5f3"
 
     def __init__(self):
         tmdb.API_KEY = self.tmdb_api_key
