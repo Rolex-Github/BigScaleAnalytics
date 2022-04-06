@@ -11,7 +11,7 @@ This repository includes content for the course of "Big-Scale Analytics".
 - Week 4: [Elasticsearch](week4)
 - Week 5: [Association Rules in Python](week5)
 - Week 6: [Recommender Systems](week6)
-- Week 7: Building a web service with Python Flask
+- Week 7: [Building a web service with Python Flask](week7)
 - Week 8: Hands-On with IoT
 - Week 9: Docker
 - Week 10: Graph Analytics
