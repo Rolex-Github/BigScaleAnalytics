@@ -46,5 +46,6 @@ We will learn how to build a docker image. We will "dockerize" the Flask app we 
 - Creating an building a dockerfile: https://www.youtube.com/watch?v=LQjaJINkQXY
 - Dockerizing python applications: https://runnable.com/docker/python/dockerize-your-python-application
 - Convert a Python flask app to Docker container: https://www.youtube.com/watch?v=prlixoDIfrc
+- Deploying a dockerized flask app to google cloud: https://towardsdatascience.com/deploy-a-dockerized-flask-app-to-google-cloud-platform-71d91b39b25e
 
 https://www.youtube.com/watch?v=prlixoDIfrc
